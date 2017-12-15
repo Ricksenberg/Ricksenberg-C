@@ -1,0 +1,14 @@
+[
+{
+    "develop_mode" : 1,
+    "start_online" : 1,
+    "url_ping" : "http://www.google.com",
+    "background_color" : "#6699ff",
+    "text_background": "#30302e",
+    "font_background" : "white",
+    "opacity" : 0.9,
+    "language" : "eng.json",
+    "geometry" : "600",
+    "overdirect" : 1
+}
+]
