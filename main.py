@@ -157,11 +157,14 @@ class Menus():
             self.root_.mainloop()
 
     def os_Dir(self):
-        for _ in range(4):
-            os.chdir('..')
+        os.chdir('..')
+        os.chdir('..')
+        os.chdir('..')
+        os.chdir('..')
+        os.chdir('..')
 
     def new_Console(self):
-        from main import Menus as m
+        from Ventana import Menus as m
         m.settings()
         m.interfazU()
 
